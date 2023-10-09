@@ -4,8 +4,8 @@ https://ccminyi.shinyapps.io/Covid_daily_infection_rate_in_TW/
 
 ## Data
 * Source :
-          * [Covid-19 data](https://covid-19.nchc.org.tw)
-  	  * [Global Administrative Areas (GADM)](https://gadm.org/download_country_v3.html)	
+	*  [Covid-19 data](https://covid-19.nchc.org.tw)
+	*  [Global Administrative Areas (GADM)](https://gadm.org/download_country_v3.html)	
 
 ## Table
 For Table 2, 4, 6, and 7: ues CE and SCE drop R code.
