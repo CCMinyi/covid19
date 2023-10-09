@@ -2,7 +2,7 @@
 
 ## Paper :
 
-[Ting-Li Chen, Elizabeth Chou, Min-Yi Chen and Fushing Hsieh (2022). Unraveling implicit human behavioral effects on dynamic characteristics of Covid-19 daily infection rates in Taiwan.](https://arxiv.org/abs/2211.10926)
+Ting-Li Chen, Elizabeth Chou, Min-Yi Chen and Fushing Hsieh (2022). Unraveling implicit human behavioral effects on dynamic characteristics of Covid-19 daily infection rates in Taiwan.[arxiv link](https://arxiv.org/abs/2211.10926)
 
 ## RShiny Demo :
 [Website link](https://ccminyi.shinyapps.io/Covid_daily_infection_rate_in_TW/)
