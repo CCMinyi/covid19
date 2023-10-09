@@ -7,7 +7,7 @@ https://ccminyi.shinyapps.io/Covid_daily_infection_rate_in_TW/
           * [Covid-19 data](https://covid-19.nchc.org.tw)
   	  * [Global Administrative Areas (GADM)](https://gadm.org/download_country_v3.html)	
 
-* Table
+## Table
 For Table 2, 4, 6, and 7: ues CE and SCE drop R code.
 
 Table 2: CE and drop.csv  (use data0805cat.csv)  
@@ -15,8 +15,8 @@ Table 4: CE and drop-right90.csv  (use data0805cat.csv)
 Table 6: ce and drop data0805-RL_NS.csv  (use data0805-leftright-cat.csv)    
 Table 7: ce and drop data0805-RL_city.csv (use data0805-leftright-cat.csv)      
 
-* Figure
-* 
+## Figure
+
 Fig 1 : use daily_infection_rate.R with overall_covid.csv.
 
 Fig 3 : use Taipei_smooth.R with taipei_district.csv.
@@ -30,7 +30,7 @@ Fig 7, 8 : use Taiwan_plot.R with peak/peak_data.csv, taiwan_data/gadm36_TWN_2.s
 Fig 9, 10, 11, and 12: use Heatmap R code with the treepath results csv files. The trees are created by using big-cat.csv 
 
 
-##
+## Packages
 * Packages we used:
 	* igraph
 	* RColorBrewer
