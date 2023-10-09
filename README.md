@@ -10,24 +10,27 @@ https://ccminyi.shinyapps.io/Covid_daily_infection_rate_in_TW/
 ## Table
 For Table 2, 4, 6, and 7: ues CE and SCE drop R code.
 
-Table 2: CE and drop.csv  (use data0805cat.csv)  
-Table 4: CE and drop-right90.csv  (use data0805cat.csv)  
-Table 6: ce and drop data0805-RL_NS.csv  (use data0805-leftright-cat.csv)    
-Table 7: ce and drop data0805-RL_city.csv (use data0805-leftright-cat.csv)      
+* Table 2: CE and drop.csv  (use data0805cat.csv)
+  
+* Table 4: CE and drop-right90.csv  (use data0805cat.csv)
+  
+* Table 6: ce and drop data0805-RL_NS.csv  (use data0805-leftright-cat.csv)
+  
+* Table 7: ce and drop data0805-RL_city.csv (use data0805-leftright-cat.csv)      
 
 ## Figure
 
-Fig 1 : use daily_infection_rate.R with overall_covid.csv.
+* Fig 1 : use daily_infection_rate.R with overall_covid.csv.
 
-Fig 3 : use Taipei_smooth.R with taipei_district.csv.
+* Fig 3 : use Taipei_smooth.R with taipei_district.csv.
 
-Fig 4 : llustrative definitions and extractions of all features.R with df_taipei.csv.
+* Fig 4 : llustrative definitions and extractions of all features.R with df_taipei.csv.
 
-Fig 5 : use Directed assciative network R code. (Figure 6 can be created by modifying the direction part in the R code.)  
+* Fig 5 : use Directed assciative network R code. (Figure 6 can be created by modifying the direction part in the R code.)
 
-Fig 7, 8 : use Taiwan_plot.R with peak/peak_data.csv, taiwan_data/gadm36_TWN_2.shp.
+* Fig 7, 8 : use Taiwan_plot.R with peak/peak_data.csv, taiwan_data/gadm36_TWN_2.shp.
 
-Fig 9, 10, 11, and 12: use Heatmap R code with the treepath results csv files. The trees are created by using big-cat.csv 
+* Fig 9, 10, 11, and 12: use Heatmap R code with the treepath results csv files. The trees are created by using big-cat.csv 
 
 
 ## Packages
